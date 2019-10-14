@@ -24,3 +24,7 @@ A learning document on python's pandas Library.
 8. pandas绘图
 
 还有一份需要用到的数据：people.csv
+
+＃Docs
+
+https://www.pypandas.cn/
